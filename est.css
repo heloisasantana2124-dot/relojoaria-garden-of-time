@@ -1,0 +1,156 @@
+.paizao{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	margin: 0 auto;
+	flex-wrap: wrap;
+}
+.cabecario{
+	justify-content: space-between;
+	background-color: #631F3C;
+	text-align: center;
+	color:#894329;
+	width:100%;
+	height: 15vh;
+}
+.pai{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	margin-left: 100px;
+}
+.p1{
+	display: flex;
+	width: 50%;
+	justify-content: space-between;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+.text{
+	justify-content: space-between;
+	background-color: #894329;
+	text-align: center;
+	color:#CBBD73;
+    width: 70%;
+    height: 250px;
+    margin: 50px;
+}
+.p{
+	width: 50%;
+	justify-content: space-between;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+.des{
+	justify-content: space-between;
+    width: 75%;
+    height: 300px;
+    margin: 50px;
+}
+.maex{
+	display: flex;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	background-color: #631F3C;
+	justify-content: center;
+}
+.bloco{
+	margin:20px;
+	width: 20%;
+	height: 25px;
+	text-align: center;
+	color:#894329;
+	background-color: #CBBD73;
+}
+.mae{
+	display: flex;
+	width: 100%;
+	height: 500px;
+}
+.maezinha{
+	display: flex;
+	width: 50%;
+	justify-content: space-between;
+    display: flex;
+	flex-wrap: wrap;
+}
+.loja{
+	justify-content: space-between;
+	background-color:  #894329;
+    width: 70%;
+    height: 350px;
+    margin: 50px;
+
+}
+.mamis{
+	display: flex;
+	width: 50%;
+	justify-content: space-between;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+.endere{
+	width: 35%;
+	height: 53px;
+	color:#CBBD73;
+	background-color:#894329;
+    margin-top: 150px;
+}
+.contato{
+	width: 35%;
+	height: 25px;
+	color:#CBBD73;
+	background-color: #894329;
+    flex-direction: column;
+  
+}
+.contato1{
+	width: 35%;
+	height: 25px;
+	color:#CBBD73;
+	background-color: #894329;
+    flex-direction: column;
+    margin-bottom: 150px;
+  
+}
+.t1{ 
+	justify-content: center;
+	width:100%;
+	height: 200px;
+	text-align: center;
+	font-size: 30px;
+	color:#CBBD73;
+	background-color:#631F3C;
+
+}
+.irmazona{
+	display: flex;
+	justify-content:center;
+	gap:20px;
+	padding: 40px;
+	margin: 100px;
+	width: 100%;
+}
+.bl{
+	width: 200px;
+    height: 200px;
+    background:  #894329;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 25px;
+}
+.rodape{
+	justify-content: space-between;
+	background-color: #631F3C;
+	width:100%;
+	height: 15vh;
+	text-align: center;
+	color:#894329;
+	margin-top: 200px;
+	font-size: 25px;
+}
